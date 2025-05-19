@@ -1,10 +1,10 @@
 {
-  "name": "Hello Extensions",
+  "name": "Steve Le Extension",
   "description": "Base Level Extension",
   "version": "1.0",
-  "manifest_version": 1,
+  "manifest_version": 3,
   "action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+    "default_popup": "Steve1.html",
+    "default_icon": "Steve1.png"
   }
 }
