@@ -1,6 +1,9 @@
 {
   "name": "Steve Le Extension",
   "description": "Base Level Extension",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
   "version": "1.0",
   "manifest_version": 3,
   "action": {
