@@ -8,7 +8,7 @@ const Steve = [
 "Steve6.png",
 "Steve7.png",
 "Steve8.png",
-"Steve9.png"
+"Steve9.png",
 "Steve10.png"
 ];
 
