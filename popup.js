@@ -20,10 +20,10 @@ function get_random_image() {
   const selected_image = image_array[random_index];
   document.getElementById('image_shower').src = `./images/${selected_image}`;
 }
-const catImage = document.getElementById("cat-image");
-const changeCatBtn = document.getElementById("change-cat");
+const SteveImage = document.getElementById("Steve-image");
+const changeSteveBtn = document.getElementById("change-Steve");
 
-changeCatBtn.addEventListener("click", () => {
-  const randomIndex = Math.floor(Math.random() * cats.length);
-  catImage.src = cats[randomIndex];
+changeSteveBtn.addEventListener("click", () => {
+  const randomIndex = Math.floor(Math.random() * Steve.length);
+  SteveImage.src = Steve[randomIndex];
 });
