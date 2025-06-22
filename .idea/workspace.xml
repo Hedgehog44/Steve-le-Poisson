@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b566d3-5783-4043-9a06-e45c3e059042" name="Changes" comment="Learning from ChatGPT (still)" />
+    <list default="true" id="b3b566d3-5783-4043-9a06-e45c3e059042" name="Changes" comment="Learning from ChatGPT (still)">
+      <change beforePath="$PROJECT_DIR$/Steve1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Steve1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
